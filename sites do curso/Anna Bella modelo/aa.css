@@ -1,0 +1,31 @@
+#menu{
+background-color: gray;
+text-align: center;
+border-radius: 20px 20px 0px 0px;
+width: 900px;
+}
+
+.alinha{
+	border-left: 90px ;
+	border-radius: 20px;
+	border-style: ;
+}
+
+
+.texto{
+	border-radius: 0px 0px 20px 20px;
+	background-color: white;
+	width: 900px;
+}
+
+#fundo{
+	background: imagem/fundo.png;
+}
+
+h2{
+	color: darkkhaki;
+}
+
+img{
+	border: 15px darkgray;
+}
